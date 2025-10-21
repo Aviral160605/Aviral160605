@@ -61,4 +61,8 @@ Volunteer, Little Paws Care NGO: Deeply committed to leveraging technology to ma
 
 I’m always eager to connect and work on impactful projects. Reach out to me if you’d like to collaborate!
 
+Email: jaiswalaviral1606@gmail.com
 
+GitHub: Aviral160605
+
+Pronouns: He/Him
