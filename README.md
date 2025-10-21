@@ -73,22 +73,6 @@ Developed a machine learning model to predict potential adverse drug interaction
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aviral160605&show_icons=true&theme=tokyonight" alt="Aviral's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral160605&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral160605&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 ### 🤝 Connect With Me  
 
 <p align="center">
