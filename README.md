@@ -1,49 +1,64 @@
-# Hi, I'm Aviral Jaiswal! 👋
+Aviral Jaiswal
 
-I’m a student at Kalinga Institute of Industrial Technology, pursuing my B.Tech in Electronics and Computer Science Engineering. I'm passionate about leveraging technology to solve real-world problems and make a positive impact!
+B.Tech Electronics And Computer Science Engineering @ Kalinga Institute of Industrial Technology
 
-## 🌟 My Interests
+<a href="https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+<a href="mailto:jaiswalaviral1606@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-- Electronics and Computer Science Engineering  
-- Machine Learning & Data Science  
-- IoT Projects  
-- Database Management Systems  
-- Social impact through tech solutions
+I am a dedicated engineering student passionate about leveraging technology to solve real-world problems and make a positive impact. My focus lies in Machine Learning, Data Science, and Industrial Process Automation.
 
-## 🌱 Currently Learning
+🚀 Experience
 
-- Machine Learning algorithms and applications  
-- IoT and embedded systems  
-- Data structures and algorithms  
-- Advanced database concepts
+Student Intern | ABB India Limited | May 2025 - Aug 2025
 
-## 💻 Projects
+Delivered key contributions to the IOCL PBR and BPCL Uran automation projects, focusing on the optimization of industrial process control workflows.
 
-- **Grocery Store Management System**  
-  A robust Python application with MySQL integration to manage and analyze data, improving workflows and decision-making.  
-- **Temperature Monitoring Device**  
-  An innovative IoT-based device to track real-time temperature fluctuations using C++ and sensor technology.  
-- **Bone Break Classification**  
-  A machine learning system for analyzing medical imaging data and accurately identifying bone fractures.
+Engineered and validated PLC system configurations, ensuring strict compliance with functional requirements and safety standards.
 
-## 🤝 Let's Collaborate!
+Authored comprehensive technical documentation for hardware components, control logic, and system architecture.
 
-I’m always eager to connect and work on impactful projects. Reach out to me if you’d like to collaborate on:
+Executed critical on-site field activities, including hardware inspections, instrumentation checks, and control loop verifications to guarantee system integrity.
 
-- Data analysis & ML applications  
-- IoT solutions and real-time monitoring  
-- Anything that blends tech and meaningful outcomes!
+🛠️ Tech Stack & Skills
 
-## 📫 Contact Me
+Languages: Python, Java, C, MySQL
 
-- Email: [jaiswalaviral1606@gmail.com](mailto:jaiswalaviral1606@gmail.com)  
-- Phone: +91-7800091550  
-- [LinkedIn](https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/)  
-- [GitHub](https://github.com/Aviral160605)
+Technologies/Frameworks: HTML5, CSS3, Scikit-learn, Pandas
 
-## 😄 Pronouns
-He/Him
+Core Competencies: Machine Learning, Data Science, Software Engineering, DBMS, Cloud Computing, Generative AI
 
-## ⚡ Fun Fact
-I love working on projects that blend technology with real-world impact – like using IoT and ML to solve challenges in healthcare and operations!
+Developer Tools: VS Code, IntelliJ, Canva, Jupyter, Colab
+
+📂 Featured Projects
+
+Drug-Drug Interaction Side Effect Prediction | Python, Scikit-learn, Pandas
+
+Engineered and validated a Scikit-learn model that predicts adverse drug-drug interactions from pharmacological data, achieving high accuracy and delivering interpretable insights to enhance clinical safety.
+
+Grocery Store Management System | Python, MySQL
+
+Engineered a data management application using Python and MySQL to automate inventory, track sales, and visualize business data for improved operational insights.
+
+🎓 Certifications & Training
+
+Generative AI Foundations | AWS Academy
+
+Machine Learning for Natural Language Processing | AWS Academy
+
+Generative AI: Prompt Engineering Basics | IBM/Coursera
+
+AI/ML for Geodata Analysis | ISRO
+
+Machine Learning and AI with Python | TechBairn
+
+Cybersecurity Fundamentals | Palo Alto Networks
+
+🌱 Community Involvement
+
+Volunteer, Little Paws Care NGO: Deeply committed to leveraging technology to make a positive impact and support the noble mission of the NGO.
+
+📫 Let's Connect!
+
+I’m always eager to connect and work on impactful projects. Reach out to me if you’d like to collaborate!
+
 
