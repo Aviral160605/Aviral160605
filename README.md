@@ -106,9 +106,6 @@ Developed a machine learning model to predict potential adverse drug interaction
   <a href="#"><img src="https://img.shields.io/badge/Generative%20AI-8E2DE2.svg?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Data%20Analytics-2C3E50.svg?style=for-the-badge&logo=databricks&logoColor=white" /></a>
 </p>
----
-### 🤝 Connect With Me  
-
 <p align="center">
   <a href="mailto:jaiswalaviral1606@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -116,5 +113,6 @@ Developed a machine learning model to predict potential adverse drug interaction
 </p>
 
 ---
-
+### 🤝 Connect With Me  
+---
 <h3 align="center">⭐ Turning ideas into innovation through technology and creativity ⭐</h3>
