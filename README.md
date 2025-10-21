@@ -1,68 +1,102 @@
-Aviral Jaiswal
+<h1 align="center">👋 नमस्ते (Namaste), I'm Aviral Jaiswal</h1>
 
-B.Tech Electronics And Computer Science Engineering @ Kalinga Institute of Industrial Technology
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=B.Tech+in+Electronics+%26+Computer+Science;Ex-Intern+%40+ABB+India+Limited;Automation+%7C+Machine+Learning+%7C+Generative+AI;Turning+Ideas+into+Innovation" alt="Typing SVG" />
+</p>
 
-<a href="https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
-<a href="mailto:jaiswalaviral1606@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+---
 
-I am a dedicated engineering student passionate about leveraging technology to solve real-world problems and make a positive impact. My focus lies in Machine Learning, Data Science, and Industrial Process Automation.
+### 🧠 About Me  
+🎓 Pursuing **B.Tech in Electronics and Computer Science Engineering** from **KIIT University, Bhubaneswar (2022–2026)**  
+💼 **Ex-Intern @ ABB India Limited** — worked on the **IOCL PBR** and **BPCL Uran Automation Projects**  
+💡 Passionate about **Automation, Embedded Systems, and Generative AI**  
+🌱 Currently exploring **Industrial Automation + AI Integration**  
+⚡ Always curious to learn, build, and optimize intelligent systems  
 
-🚀 Experience
+---
 
-Student Intern | ABB India Limited | May 2025 - Aug 2025
+### 💼 Experience  
 
-Delivered key contributions to the IOCL PBR and BPCL Uran automation projects, focusing on the optimization of industrial process control workflows.
+**Student Intern — ABB India Limited** _(May 2025 – Aug 2025)_  
+📍 Bangalore, Karnataka  
+- Contributed to **IOCL PBR** and **BPCL Uran** automation projects under **Prashanth Krishna**.  
+- Developed & validated **PLC configurations**, ensuring compliance with safety & process control standards.  
+- Authored detailed **technical documentation** on hardware and control architecture.  
+- Performed **on-site instrumentation checks**, **hardware inspections**, and **loop verifications**.
 
-Engineered and validated PLC system configurations, ensuring strict compliance with functional requirements and safety standards.
+---
 
-Authored comprehensive technical documentation for hardware components, control logic, and system architecture.
+### 🛠️ Technical Skills  
 
-Executed critical on-site field activities, including hardware inspections, instrumentation checks, and control loop verifications to guarantee system integrity.
+| **Category** | **Skills** |
+|---------------|------------|
+| 💻 **Languages** | Python, Java, C, MySQL |
+| 🧩 **Frameworks & Tools** | Scikit-learn, Pandas, HTML5, CSS3, Jupyter, VS Code, IntelliJ |
+| 🧠 **Core Areas** | Machine Learning, Generative AI, Data Analytics, Cloud Computing, Automation |
+| 🧰 **Other Tools** | Canva, Colab, IDLE |
 
-🛠️ Tech Stack & Skills
+---
 
-Languages: Python, Java, C, MySQL
+### 🚀 Projects  
 
-Technologies/Frameworks: HTML5, CSS3, Scikit-learn, Pandas
+#### 🛒 Grocery Store Management System  
+> *Python, MySQL*  
+A Python–MySQL-based application that automates inventory and sales management, visualizes analytics, and enhances operational insights.
 
-Core Competencies: Machine Learning, Data Science, Software Engineering, DBMS, Cloud Computing, Generative AI
+#### 💊 Drug–Drug Interaction Side Effect Prediction  
+> *Python, Scikit-learn, Pandas*  
+Developed a machine learning model to predict potential adverse drug interactions, boosting clinical safety and interpretability.
 
-Developer Tools: VS Code, IntelliJ, Canva, Jupyter, Colab
+---
 
-📂 Featured Projects
+### 🧾 Certifications  
 
-Drug-Drug Interaction Side Effect Prediction | Python, Scikit-learn, Pandas
+- 🪶 Generative AI Foundations — *AWS Academy*  
+- 🧠 Machine Learning for NLP — *AWS Academy*  
+- ✨ Generative AI: Prompt Engineering Basics — *IBM / Coursera*  
+- 🛰️ AI/ML for Geodata Analysis — *ISRO*  
+- 🧩 Machine Learning & AI with Python — *TechBairn*  
+- 🔐 Cybersecurity Fundamentals — *Palo Alto Networks*  
 
-Engineered and validated a Scikit-learn model that predicts adverse drug-drug interactions from pharmacological data, achieving high accuracy and delivering interpretable insights to enhance clinical safety.
+---
 
-Grocery Store Management System | Python, MySQL
+### 🌱 Current Focus  
+- Exploring **Generative AI for Automation Systems**  
+- Building intelligent **control & monitoring frameworks**  
+- Strengthening knowledge in **Data Science** and **Cloud-based ML solutions**
 
-Engineered a data management application using Python and MySQL to automate inventory, track sales, and visualize business data for improved operational insights.
+---
 
-🎓 Certifications & Training
+### 🫶 Volunteer Work  
+**Volunteer @ Little Paws Care NGO**  
+> Blending compassion with technology — supporting social causes with tech-driven initiatives.
 
-Generative AI Foundations | AWS Academy
+---
 
-Machine Learning for Natural Language Processing | AWS Academy
+### 📈 GitHub Stats  
 
-Generative AI: Prompt Engineering Basics | IBM/Coursera
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aviral160605&show_icons=true&theme=tokyonight" alt="Aviral's GitHub stats" />
+</p>
 
-AI/ML for Geodata Analysis | ISRO
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral160605&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-Machine Learning and AI with Python | TechBairn
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral160605&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
-Cybersecurity Fundamentals | Palo Alto Networks
+---
 
-🌱 Community Involvement
+### 🤝 Connect With Me  
 
-Volunteer, Little Paws Care NGO: Deeply committed to leveraging technology to make a positive impact and support the noble mission of the NGO.
+<p align="center">
+  <a href="mailto:jaiswalaviral1606@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Aviral160605"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-📫 Let's Connect!
+---
 
-I’m always eager to connect and work on impactful projects. Reach out to me if you’d like to collaborate!
-
-Email: jaiswalaviral1606@gmail.com
-
-GitHub: Aviral160605
-
-Pronouns: He/Him
+<h3 align="center">⭐ Turning ideas into innovation through technology and creativity ⭐</h3>
